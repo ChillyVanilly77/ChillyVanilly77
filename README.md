@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Chilly!
-- 👀 I’m interested in algorithms, programming languages, building cool stuff with modern tech, K8s/OpenShift/etc, and much much more!
-- 🌱 I’m currently learning a bit more lower level things about OS, Rust and Kotlin
-- 💞️ I’m looking to collaborate on interesting projects be it small or big.
+- 👀 I’m interested in building plenty of things, such as systems, tools and much much more with modern programming languages & tech!
+- 🌱 I’m always learning something new! Almost every day!
+- 💞️ I’m open to collaborate on interesting projects, be it small or large!
 - 📫 Your can reach me via here, by E-Mail or via Discord `Chilly_Vanilly#7099`
 - 💻 I am familiar with ...
   - container orchestrator tools such as Kubernetes and OpenShift
   - OCI (a.k.a "Docker") images and how to build them (even within the OpenShift platform) which sorta implies
     familiarity also with how Linux works etc
-  - the programming languages Rust, C++, Java, Kotlin, Python, Groovy, TypeScript (and JS although I very much prefer TS over JS)
+  - the programming languages Rust, C++, Kotlin, Python, Groovy, Java, TypeScript (and JS although I very much prefer TS over JS)
   - the "web trio" (JS + (S)CSS + HTML)
 
 <!---
